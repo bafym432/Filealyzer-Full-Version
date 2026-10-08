@@ -236,4 +236,4 @@ This repository serves as the official landing page for Filealyzer. The software
 **Get the most recent version of Filealyzer today!**
 
 ---
-**Last updated:** 2026-10-07 20:20:18 UTC
+**Last updated:** 2026-10-08 00:36:08 UTC
